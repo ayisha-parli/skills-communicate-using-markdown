@@ -8,6 +8,6 @@
 
 
 
-
+var myVar = "Hello, world!";
 
 here we can see the heading in diffrent size by using slashes
